@@ -4,7 +4,7 @@
 <img align="right" margin="0 auto" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 
-## Estudiante de Ingeniería de Software
+### Estudiante de Ingeniería de Software
 
 - 👨‍💻 Hace muy poco hice mi primer sitio web para un cliente de manera freelance.
 - 📚 Me gusta el desarrollo web, aunque estoy más enfocado en el front-end.
