@@ -22,13 +22,13 @@
 
 <p recentlyplayed, float='left'>
   <br>
-  <h1>Álbumes favoritos</h1>
+  <h4>Álbumes favoritos</h4>
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://cdn-images.dzcdn.net/images/cover/31c854028eb8f9461ff0e27a5c5b5be8/0x1900-000000-80-0-0.jpg&w=600&h=600' alt='Shin-Ken' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273c48c0e5923c79c23163a32a1' alt='Shin-Ken' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27382939f80f3052a55a92d4717' alt='Anyone Else But You' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b7e60bf3437eff4ac464195d' alt='When the Kite String Pops' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739f5cce8304c42d3a5463fd23' alt='Cold Heart - PNAU Remix' style='width:50%'>
       </td>
