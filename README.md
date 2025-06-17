@@ -22,7 +22,7 @@
 
 ---
 
-<h2>Algunos de mis álbumes de música favoritos:</h2>
+<h2>Un poco sobre mi:</h2>
 <p recentlyplayed, float='left'>
   <h4>Algunos de mis álbumes de música favoritos:</h4>
   <p></p>
