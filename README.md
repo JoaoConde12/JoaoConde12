@@ -4,8 +4,8 @@
 
 ## Estudiante de Ingeniería de Software
 
-- 👨‍💻 Hace muy poco hice mi primer sitio web para un cliente y su negocio jurídico.
-- 📚 Me gusta el desarrollo web, estoy empezando a aprender VueJS y NodeJS a la par.
+- 👨‍💻 Hace muy poco hice mi primer sitio web para un cliente, que necesitaba para su empresa jurídica.
+- 📚 Me gusta el desarrollo web, actualmente estoy empezando a aprender VueJS para front y NodeJS para back.
 - 💪🏼 Metas futuras: Quisiera obtener una pasantía orientada al desarrollo web que me permita seguir creciendo como desarrollador.
 
 ---
@@ -39,31 +39,31 @@
     </tr>
     <tr align='center'>
       <td>
-      <a href='https://music.youtube.com/playlist?list=OLAK5uy_mkW9VBbI4p4ErcHl1ujYVzQoSsPHrP3rY' target="_blank">Shin-Ken</a>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_mkW9VBbI4p4ErcHl1ujYVzQoSsPHrP3rY' target='_blank'>Shin-Ken</a>
       <br>
       <br>
       <p>Perséfone</p>
       </td>
       <td>
-      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When the Kite String Pops</a>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target='_blank'>When the Kite String Pops</a>
       <br>
       <br>
       <p>Acid Bath</p>
       </td>
       <td>
-      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When A Shadow Is Forced Into The Light</a>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target='_blank'>When A Shadow Is Forced Into The Light</a>
       <br>
       <br>
       <p>Swallow The Sun</p>
       </td>
       <td>
-      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">Sonic Excess In Its Purest Forms</a>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target='_blank'>Sonic Excess In Its Purest Forms</a>
       <br>
       <br>
       <p>Crowbar</p>
       </td>
       <td>
-      <a href='https://music.youtube.com/playlist?list=OLAK5uy_kg_wGHA_19yp27nBWq85lu8F1xWqOO7fo' target="_blank">Still Life</a>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_kg_wGHA_19yp27nBWq85lu8F1xWqOO7fo' target='_blank'>Still Life</a>
       <br>
       <br>
       <p>Opeth</p>
