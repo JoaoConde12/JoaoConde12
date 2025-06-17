@@ -1,6 +1,8 @@
 ### Hola 👋 Soy [Joao Conde!](https://github.com/JoaoConde12)
 
-<img align="center" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
+<img align="center" margin="0 auto" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 
 ## Estudiante de Ingeniería de Software
 
