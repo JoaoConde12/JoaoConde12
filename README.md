@@ -22,7 +22,7 @@
 
 <p recentlyplayed, float='left'>
   <br>
-  <h2>Álbumes favoritos</h2>
+  <h2>Algunos de mis álbumes de música favoritos:</h2>
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
@@ -32,72 +32,38 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://lh3.googleusercontent.com/jCrPd6ZXNHEOC5ie12vJE_rZd-qpScK1CnZD7GVn-otPkUY-aUgCOW4cooPJrb1rHCsPSQHq3D4-ck0h=w544-h544-l90-rj&w=600&h=600' alt='When A Shadow Is Forced Into The Light' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b3de5764cc02f94714487c86' alt='ily (i love you baby) (feat. Emilee)' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&https://lh3.googleusercontent.com/k6P8BuUyLw1kOZBI1AG0iTr0AMJ31J1ejclLjvszjHJcrfsm9D-qNZCwJlKu5asgFFf7QBNLXgsIOrcx3g=w544-h544-l90-rj&w=600&h=600' alt='Sonic Excess In Its Purest Forms' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2733a376bd9b9b1f4b2686807db' alt='Paradise' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://lh3.googleusercontent.com/eeGEnAuHqfnyA7wD31GJjItBDGGgybtdJUytLb88JJDWHjlfKlOKY6wDoSAcEeTbk875JmepYKtNiWf8Xw=w544-h544-l90-rj&w=600&h=600' alt='Still Life' style='width:50%'>
       </td>
     </tr>
     <tr align='center'>
       <td>
       <a href='https://music.youtube.com/playlist?list=OLAK5uy_mkW9VBbI4p4ErcHl1ujYVzQoSsPHrP3rY' target="_blank">Shin-Ken</a>
+      <br/>
       <p>Perséfone</p>
       </td>
       <td>
       <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When the Kite String Pops</a>
+      <br/>
       <p>Acid Bath</p>
       </td>
       <td>
       <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When A Shadow Is Forced Into The Light</a>
+      <br/>
       <p>Swallow The Sun</p>
       </td>
       <td>
-      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When the Kite String Pops</a>
-      <p>Acid Bath</p>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">Sonic Excess In Its Purest Forms</a>
+      <br/>
+      <p>Crowbar</p>
       </td>
       <td>
-      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When the Kite String Pops</a>
-      <p>Acid Bath</p>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">Still Life</a>
+      <br/>
+      <p>Opeth</p>
       </td>
     </tr>
   </table>
 </p recentlyplayed>
 <!------ .RECENTLY PLAYED ------>
-<!------ TOP ARTISTS ------>
-
-<p topartists, float='left'>
-  <br>
-  <h1>Top artists this month</h1>
-  <p></p>
-  <table style='width:100%'>
-    <tr align='center'>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebb5f9e28219c169fd4b9e8379' alt='The Weeknd' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5ebd30f119ef77a0252e17207cf' alt='LiSA' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb72a8e86c457085e7fdd3453f' alt='Bazzi' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb6867a4ce52401bd378bb5179' alt='James Arthur' style='width:50%'>
-      </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab6761610000e5eb5af53f295e6c42529fbd0873' alt='Lauv' style='width:50%'>
-      </td>
-    </tr>
-    <tr align='center'>
-      <td>
-      <a href='https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ'>The Weeknd</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv'>LiSA</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl'>Bazzi</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM'>James Arthur</a>
-      </td>
-      <td>
-      <a href='https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv'>Lauv</a>
-      </td>
-    </tr>
-  </table>
-</p topartists>
-<!------ .TOP ARTISTS ------>
