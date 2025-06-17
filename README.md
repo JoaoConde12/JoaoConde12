@@ -1,6 +1,6 @@
-<table>
-  <tr>
-    <td>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
+
+<div style="flex: 1; min-width: 250px;">
 
 ### Hola 👋 Soy [Joao Conde!](https://github.com/JoaoConde12)
 
@@ -10,12 +10,13 @@
 - 📚 Me gusta el desarrollo web, actualmente estoy empezando a aprender VueJS para front y NodeJS para back.  
 - 💪🏼 Metas futuras: Quisiera obtener una pasantía orientada al desarrollo web que me permita seguir creciendo como desarrollador.
 
-</td>
-    <td align="center">
-      <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" height="200px">
-    </td>
-  </tr>
-</table>
+</div>
+
+<div style="flex: 1; min-width: 200px; text-align: center;">
+  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" height="200px">
+</div>
+
+</div>
 
 ##### Tecnologías que uso:
 
