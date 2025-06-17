@@ -1,4 +1,4 @@
-### Hola 👋 Soy [Joao Conde!](https://github.com/JoaoConde12)
+## Hola 👋 Soy [Joao Conde!](https://github.com/JoaoConde12)
 
 
 <img align="right" margin="0 auto" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
@@ -22,7 +22,7 @@
 
 ---
 
-<h2>Un poco sobre mi:</h2>
+<h3>Un poco sobre mi:</h3>
 <p recentlyplayed, float='left'>
   <h4>Algunos de mis álbumes de música favoritos:</h4>
   <p></p>
