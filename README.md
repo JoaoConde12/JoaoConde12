@@ -6,15 +6,15 @@
 
 ## Estudiante de Ingeniería de Software
 
-- 👨‍💻 Hace muy poco hice mi primer sitio web para un cliente.
-- 📚 Me gusta el desarrollo web front-end.
-- 💪🏼 Metas futuras: Obtener mi primera experiencia laboral.
+- 👨‍💻 Hace muy poco hice mi primer sitio web para un cliente de manera freelance.
+- 📚 Me gusta el desarrollo web, aunque estoy más enfocado en el front-end.
+- 💪🏼 Metas futuras: Obtener una pasantía para seguir creciendo como desarrollador.
 
 ---
 
 ##### Tecnologías que uso:
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,astro,npm,vite,postgres,mint)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,astro,npm,vite,windows,mint)](https://skillicons.dev)
 
 ##### Tecnologías con las que he trabajado:
 
