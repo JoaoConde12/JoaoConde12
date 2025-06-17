@@ -1,22 +1,16 @@
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
-
-<div style="flex: 1; min-width: 250px;">
-
 ### Hola 👋 Soy [Joao Conde!](https://github.com/JoaoConde12)
+
+
+<img align="center" margin="0 auto" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+
 
 ## Estudiante de Ingeniería de Software
 
-- 👨‍💻 Hace muy poco hice mi primer sitio web para un cliente, que necesitaba para su empresa jurídica.  
-- 📚 Me gusta el desarrollo web, actualmente estoy empezando a aprender VueJS para front y NodeJS para back.  
-- 💪🏼 Metas futuras: Quisiera obtener una pasantía orientada al desarrollo web que me permita seguir creciendo como desarrollador.
+- 👨‍💻 Hace muy poco hice mi primer sitio web para un cliente.
+- 📚 Me gusta el desarrollo web front-end.
+- 💪🏼 Metas futuras: Obtener mi primera experiencia laboral.
 
-</div>
-
-<div style="flex: 1; min-width: 200px; text-align: center;">
-  <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" height="200px">
-</div>
-
-</div>
+---
 
 ##### Tecnologías que uso:
 
