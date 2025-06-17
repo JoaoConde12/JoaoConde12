@@ -4,16 +4,14 @@
 
 ## Estudiante de Ingeniería de Software
 
-- 👨‍💻 Hace muy poco hice mi primer sitio web para un cliente para su empresa jurídica.
+- 👨‍💻 Hace muy poco hice mi primer sitio web para un cliente y su negocio jurídico.
 - 📚 Me gusta el desarrollo web, estoy empezando a aprender VueJS y NodeJS a la par.
-- 💪🏼 Metas futuras: Quisiera obtener una pasantía orientada al desarrollo web que me permita crecer.
+- 💪🏼 Metas futuras: Quisiera obtener una pasantía orientada al desarrollo web que me permita seguir creciendo como desarrollador.
 
 ---
 
 ##### Tecnologías que uso:
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,vite,npm,astro,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,astro,npm,vite,postgres)](https://skillicons.dev)
 
 ---
-
-Credit: [Danushka2](https://github.com/Danushka2)
