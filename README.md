@@ -22,7 +22,7 @@
 
 <p recentlyplayed, float='left'>
   <br>
-  <h4>Álbumes favoritos</h4>
+  <h2>Álbumes favoritos</h2>
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
@@ -30,7 +30,7 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b7e60bf3437eff4ac464195d&w=600&h=600' alt='When the Kite String Pops' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b2739f5cce8304c42d3a5463fd23' alt='Cold Heart - PNAU Remix' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://lh3.googleusercontent.com/jCrPd6ZXNHEOC5ie12vJE_rZd-qpScK1CnZD7GVn-otPkUY-aUgCOW4cooPJrb1rHCsPSQHq3D4-ck0h=w544-h544-l90-rj&w=600&h=600' alt='When A Shadow Is Forced Into The Light' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b273b3de5764cc02f94714487c86' alt='ily (i love you baby) (feat. Emilee)' style='width:50%'>
       </td>
@@ -39,21 +39,24 @@
     </tr>
     <tr align='center'>
       <td>
-      <a href='https://music.youtube.com/playlist?list=OLAK5uy_mkW9VBbI4p4ErcHl1ujYVzQoSsPHrP3rY'>Shin-Ken</a>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_mkW9VBbI4p4ErcHl1ujYVzQoSsPHrP3rY' target="_blank">Shin-Ken</a>
       <p>Perséfone</p>
       </td>
       <td>
-      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc'>When the Kite String Pops</a>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When the Kite String Pops</a>
       <p>Acid Bath</p>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz'>Cold Heart - PNAU Remix</a>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When A Shadow Is Forced Into The Light</a>
+      <p>Swallow The Sun</p>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS'>ily (i love you baby) (feat. Emilee)</a>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When the Kite String Pops</a>
+      <p>Acid Bath</p>
       </td>
       <td>
-      <a href='https://open.spotify.com/track/0Rx0DJI556Ix5gBny6EWmn'>Paradise</a>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When the Kite String Pops</a>
+      <p>Acid Bath</p>
       </td>
     </tr>
   </table>
