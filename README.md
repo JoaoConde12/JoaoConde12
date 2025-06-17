@@ -16,6 +16,6 @@
 
 ##### Tecnologías con las que he trabajado:
 
-[![My Skills](https://skillicons.dev/icons?i=,py,django,docker,cs,java,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,py,django,docker,cs,java,dotnet,figma,mongodb)](https://skillicons.dev)
 
 ---
