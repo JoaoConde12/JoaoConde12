@@ -22,9 +22,8 @@
 
 ---
 
-<h3>Algunos de mis álbumes de música favoritos:</h3>
+<h2>Algunos de mis álbumes de música favoritos:</h2>
 <p recentlyplayed, float='left'>
-  <br>
   <h4>Algunos de mis álbumes de música favoritos:</h4>
   <p></p>
   <table style='width:100%'>
