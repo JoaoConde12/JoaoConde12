@@ -22,9 +22,11 @@
 
 ---
 
+## Un poco sobre mi:
+
 <p recentlyplayed, float='left'>
   <br>
-  <h2>Algunos de mis álbumes de música favoritos:</h2>
+  <h3>Algunos de mis álbumes de música favoritos:</h3>
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
