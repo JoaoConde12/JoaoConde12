@@ -1,16 +1,16 @@
-### Hi there 👋 I'm [Danushka!](https://github.com/Danushka2/Danushka2/)
+### Hola 👋 Soy [Joao!](https://github.com/Danushka2/Danushka2/)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Associate Software Engineer at Acentura
+## Estudiante de Ingeniería de Software
 
-- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
-- 📚 Learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 Hace muy poco hice mi primer sitio web para un cliente para su empresa jurídica.
+- 📚 Me gusta el desarrollo web, estoy empezando a aprender VueJS y NodeJS a la par.
+- 💪🏼 Metas futuras: Quisiera obtener una pasantía orientada al desarrollo web que me permita crecer.
 
 ---
 
-##### Languages I use
+##### Tecnologías que uso:
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
