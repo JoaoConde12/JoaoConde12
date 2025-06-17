@@ -1,16 +1,21 @@
+<table>
+  <tr>
+    <td>
+
 ### Hola 👋 Soy [Joao Conde!](https://github.com/JoaoConde12)
-
-
-<img align="center" margin="0 auto" alt="GIF" height="200px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 
 ## Estudiante de Ingeniería de Software
 
-- 👨‍💻 Hace muy poco hice mi primer sitio web para un cliente, que necesitaba para su empresa jurídica.
-- 📚 Me gusta el desarrollo web, actualmente estoy empezando a aprender VueJS para front y NodeJS para back.
+- 👨‍💻 Hace muy poco hice mi primer sitio web para un cliente, que necesitaba para su empresa jurídica.  
+- 📚 Me gusta el desarrollo web, actualmente estoy empezando a aprender VueJS para front y NodeJS para back.  
 - 💪🏼 Metas futuras: Quisiera obtener una pasantía orientada al desarrollo web que me permita seguir creciendo como desarrollador.
 
----
+</td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" alt="GIF" height="200px">
+    </td>
+  </tr>
+</table>
 
 ##### Tecnologías que uso:
 
