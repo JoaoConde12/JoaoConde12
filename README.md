@@ -22,8 +22,7 @@
 
 ---
 
-### Un poco sobre mi:
-
+<h3>Algunos de mis álbumes de música favoritos:</h3>
 <p recentlyplayed, float='left'>
   <br>
   <h4>Algunos de mis álbumes de música favoritos:</h4>
