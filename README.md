@@ -26,7 +26,7 @@
   <p></p>
   <table style='width:100%'>
     <tr align='center'>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://cdn-images.dzcdn.net/images/cover/31c854028eb8f9461ff0e27a5c5b5be8/0x1900-000000-80-0-0.jpg&w=300&h=300' alt='Shin-Ken' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://cdn-images.dzcdn.net/images/cover/31c854028eb8f9461ff0e27a5c5b5be8/0x1900-000000-80-0-0.jpg&w=600&h=600' alt='Shin-Ken' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://i.scdn.co/image/ab67616d0000b27382939f80f3052a55a92d4717' alt='Anyone Else But You' style='width:50%'>
       </td>
@@ -39,7 +39,8 @@
     </tr>
     <tr align='center'>
       <td>
-      <a href='https://open.spotify.com/track/3NxuezMdSLgt4OwHzBoUhL'>Way Back Home</a>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_mkW9VBbI4p4ErcHl1ujYVzQoSsPHrP3rY'>Shin-Ken</a>
+      <p>Perséfone</p>
       </td>
       <td>
       <a href='https://open.spotify.com/track/4IBsj7ouiYgkKhaJnBCTXE'>Anyone Else But You</a>
