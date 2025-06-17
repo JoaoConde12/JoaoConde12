@@ -40,27 +40,27 @@
     <tr align='center'>
       <td>
       <a href='https://music.youtube.com/playlist?list=OLAK5uy_mkW9VBbI4p4ErcHl1ujYVzQoSsPHrP3rY' target="_blank">Shin-Ken</a>
-      <br/>
+      <br>
       <p>Perséfone</p>
       </td>
       <td>
       <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When the Kite String Pops</a>
-      <br/>
+      <br>
       <p>Acid Bath</p>
       </td>
       <td>
       <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When A Shadow Is Forced Into The Light</a>
-      <br/>
+      <br>
       <p>Swallow The Sun</p>
       </td>
       <td>
       <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">Sonic Excess In Its Purest Forms</a>
-      <br/>
+      <br>
       <p>Crowbar</p>
       </td>
       <td>
-      <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">Still Life</a>
-      <br/>
+      <a href='https://music.youtube.com/playlist?list=OLAK5uy_kg_wGHA_19yp27nBWq85lu8F1xWqOO7fo' target="_blank">Still Life</a>
+      <br>
       <p>Opeth</p>
       </td>
     </tr>
