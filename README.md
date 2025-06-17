@@ -1,4 +1,4 @@
-### Hola 👋 Soy [Joao!](https://github.com/Danushka2/Danushka2/)
+### Hola 👋 Soy [Joao Conde!](https://github.com/JoaoConde12)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
@@ -12,6 +12,10 @@
 
 ##### Tecnologías que uso:
 
-[![My Skills](https://skillicons.dev/icons?i=,html,css,js,astro,npm,vite,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,html,css,js,astro,npm,vite,postgres,linux,mint)](https://skillicons.dev)
+
+##### Tecnologías con las que he trabajado:
+
+[![My Skills](https://skillicons.dev/icons?i=,py,django,docker,cs,java,)](https://skillicons.dev)
 
 ---
