@@ -32,7 +32,7 @@
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://lh3.googleusercontent.com/jCrPd6ZXNHEOC5ie12vJE_rZd-qpScK1CnZD7GVn-otPkUY-aUgCOW4cooPJrb1rHCsPSQHq3D4-ck0h=w544-h544-l90-rj&w=600&h=600' alt='When A Shadow Is Forced Into The Light' style='width:50%'>
       </td>
-      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&https://lh3.googleusercontent.com/k6P8BuUyLw1kOZBI1AG0iTr0AMJ31J1ejclLjvszjHJcrfsm9D-qNZCwJlKu5asgFFf7QBNLXgsIOrcx3g=w544-h544-l90-rj&w=600&h=600' alt='Sonic Excess In Its Purest Forms' style='width:50%'>
+      <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://lh3.googleusercontent.com/k6P8BuUyLw1kOZBI1AG0iTr0AMJ31J1ejclLjvszjHJcrfsm9D-qNZCwJlKu5asgFFf7QBNLXgsIOrcx3g=w544-h544-l90-rj&w=600&h=600' alt='Sonic Excess In Its Purest Forms' style='width:50%'>
       </td>
       <td><img class='artists' src='https://images.weserv.nl/?mask=circle&url=https://lh3.googleusercontent.com/eeGEnAuHqfnyA7wD31GJjItBDGGgybtdJUytLb88JJDWHjlfKlOKY6wDoSAcEeTbk875JmepYKtNiWf8Xw=w544-h544-l90-rj&w=600&h=600' alt='Still Life' style='width:50%'>
       </td>
@@ -41,25 +41,30 @@
       <td>
       <a href='https://music.youtube.com/playlist?list=OLAK5uy_mkW9VBbI4p4ErcHl1ujYVzQoSsPHrP3rY' target="_blank">Shin-Ken</a>
       <br>
+      <br>
       <p>Perséfone</p>
       </td>
       <td>
       <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When the Kite String Pops</a>
+      <br>
       <br>
       <p>Acid Bath</p>
       </td>
       <td>
       <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">When A Shadow Is Forced Into The Light</a>
       <br>
+      <br>
       <p>Swallow The Sun</p>
       </td>
       <td>
       <a href='https://music.youtube.com/playlist?list=OLAK5uy_k3rUf095DtnN5T3sZhPWb6gqtjijGIbKc' target="_blank">Sonic Excess In Its Purest Forms</a>
       <br>
+      <br>
       <p>Crowbar</p>
       </td>
       <td>
       <a href='https://music.youtube.com/playlist?list=OLAK5uy_kg_wGHA_19yp27nBWq85lu8F1xWqOO7fo' target="_blank">Still Life</a>
+      <br>
       <br>
       <p>Opeth</p>
       </td>
