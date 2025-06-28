@@ -6,7 +6,7 @@
 
 ### Estudiante de Ingeniería de Software
 
-- 📚 Me gusta el desarrollo web, aunque estoy más enfocado en el front-end.
+- 📚 Me gusta el desarrollo web, aunque actualmente esto más enfocado en aprender front-end.
 - 👨‍💻 Soy una persona curiosa, por lo que me gusta indagar en tecnologías nuevas y aprender cosas por mi cuenta.
 - 💪🏼 Metas futuras: Obtener una pasantía para seguir creciendo como desarrollador.
 
